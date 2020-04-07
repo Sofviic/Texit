@@ -83,7 +83,6 @@ namespace Texit {
 		private void textBox1_TextChanged(object sender, EventArgs e) {
 			//TODO: add visual replacments.
 			text = textBox1.Text;
-			
 		}
 	}
 }
